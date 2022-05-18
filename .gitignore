@@ -1,0 +1,11 @@
+/website/.angular
+/website/.git
+/website/node_modules
+/website/.gitignore
+/WebAPI/.vs
+/WebAPI/Models/bin
+/WebAPI/Models/obj
+/WebAPI/Services/bin
+/WebAPI/Services/obj
+/WebAPI/WebAPI/bin
+/WebAPI/WebAPI/obj
